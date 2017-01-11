@@ -1,0 +1,50 @@
+body {
+padding: 10% 35%;
+align-content: center;
+font-family: sans-serif;;
+background-color: #12A5D3;
+}
+
+.container{
+  text-align: center;
+}
+
+.login {
+  font-size: 20px;
+  color: #555555;
+  background-color: #FFFFFF;
+  padding: 10px;
+  border: 1px solid #dedede;
+  border-radius: 20px;
+}
+
+p{
+  margin: 0;
+}
+
+input{
+  width: 90%;
+}
+.submit {
+  margin: 10px 40% 0;
+  width: 20%;
+}
+
+
+.submit input{
+  background-color: #D3E8F1;
+  border-radius: 20px;
+  border: 1px solid #B4CCCE;
+  color: #527885;
+}
+
+.login-help{
+  margin-top: 10px;
+  font-size: 12px;
+  color: #FFFFFF;
+}
+
+a{
+  text-decoration: none;
+  color: #BBD2E1;
+}
